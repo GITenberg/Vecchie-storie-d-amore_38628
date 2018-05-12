@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39080
     wikipedia: http://it.wikipedia.org/wiki/Adolfo_Albertazzi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38628#Vecchie-storie-d-amore
 gutenberg_bookshelf: IT Racconti
 gutenberg_issued: '2012-01-20'
 gutenberg_type: Text
